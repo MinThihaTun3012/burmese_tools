@@ -88,4 +88,6 @@ This library is licensed under the MIT License. Feel free to use, modify, and di
 
 # Acknowledgments
 
-This library was developed to simplify Burmese text processing for developers and linguists. Special thanks to **Sa Phyo Thu Thet**, from Simbolo  for his invaluable guidance, kindness, and support in teaching me. His mentorship has been instrumental in shaping my understanding and skills. Contributions and feedback from the community are also highly appreciated.
+This library was developed to simplify Burmese text processing for developers and linguists. Special thanks to [**Sa Phyo Thu Thet**](https://github.com/SaPhyoThuHtet), from Simbolo  for his invaluable guidance, kindness, and support in teaching me. His mentorship has been instrumental in shaping my understanding and skills.
+
+Contributions and feedback from the community are also highly appreciated.
